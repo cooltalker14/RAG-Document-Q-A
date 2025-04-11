@@ -8,5 +8,5 @@ This project is a **Retrieval-Augmented Generation (RAG)** app built with **Stre
 - Fast and accurate responses with Groq
 - Streamlit UI with document context viewer
 
-- # Dont forget to add your groq api key and also make sure you have an embedding model in your local system as we all are using Ollama Embeddings
-- # Else you can also go for OpenAI embeddings if you have money if you want to do so make sure you have OpenAI Api Key
+-  Dont forget to add your groq api key and also make sure you have an embedding model in your local system as we all are using Ollama Embeddings.
+-  Else you can also go for OpenAI embeddings if you have money if you want to do so make sure you have OpenAI Api Key.
